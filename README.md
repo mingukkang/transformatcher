@@ -5,7 +5,7 @@ Official PyTorch implementation of TransforMatcher: Match-to-Match Attention for
 
 The code is under refactoring at the moment, so that it will be better understandable and usable by anyone!
 
-For now, please refer to our code snippet which include the most crucial components of our pipeline.
+For now, please refer to our [code snippet](./transformatcher.py) which include the most crucial components of our pipeline.
 
 ## Citation
 If you find our code or paper to be useful for your research, please consider citing our work:
